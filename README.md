@@ -1,0 +1,2 @@
+# StudentCompanionApp
+Student Assistant Application
